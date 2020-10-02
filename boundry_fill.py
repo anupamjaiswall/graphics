@@ -1,4 +1,6 @@
-#boundry fill algorithm
+#boundry fill algorithm:
+#this program starts from a pixel which exists anywhere in the screen, and we start coloring it and call its neighbor
+##pixels and color it until we reach boundry of the screen
 
 import matplotlib.pyplot as plt
 

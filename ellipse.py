@@ -1,3 +1,4 @@
+#we draw it for one quadrant and take its symmetric and the ellipse is generated
 #!/usr/bin/python3
 import matplotlib.pyplot as plt
 
